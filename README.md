@@ -3,9 +3,10 @@
 
 Forkdelta \
 Blockchair \
+Coincodex \
 Sushiswap \
 Finnovating \
-TradingView \
+[TradingView](https://www.tradingview.com/symbols/CCSWETH/) \
 PancakeSwap
 
 **Disclaimer:** *Please keep in mind that CloutContracts is a ...*
