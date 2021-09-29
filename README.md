@@ -7,6 +7,7 @@
 [Sushiswap](https://analytics.sushi.com/tokens/0x1da4858ad385cc377165a298cc2ce3fce0c5fd31) \
 [Finnovating](https://signup.finnovating.com/challenges/detail/cloutContracts-startup-tech-call) \
 [TradingView](https://www.tradingview.com/symbols/CCSWETH/) \
+[CoinCheckup](https://coincheckup.com/coins/cloutcontracts) \
 [PancakeSwap](https://pancakeswap.finance/info/token/0x3e3b357061103dc040759ac7dceeaba9901043ad)
 
 **Disclaimer:** *Please keep in mind that CloutContracts is a ...*
